@@ -3,6 +3,8 @@
 A full-stack, responsive web application paired with a robust **C++ core engine** designed specifically to help college students and hostel residents track daily expenses, manage mess fees, and split roommate bills effortlessly.
 
 ---
+Live demo: https://kulkarnivedant388-crypto.github.io/Expense-Tracker/ [https://kulkarnivedant388-crypto.github.io/Expense-Tracker/]
+---
 
 ## ✨ Key Features
 

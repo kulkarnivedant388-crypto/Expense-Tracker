@@ -4,7 +4,7 @@
 #include <fstream>    // idk why this library is used
 #include <sstream>    // idk why this library is used
 #include <iomanip>    // idk why this library is used
-#include <numeric>    // idk why this library is used
+#include <numeric>    
 
 // A struct groups related variables together.
 // Expense = one entry like "35 rupees, bhel, 16-11-2026, snack"
